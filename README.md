@@ -239,14 +239,7 @@ Help:
 
 <a href="https://stackoverflow.com/questions/13906623/using-pickle-dump-typeerror-must-be-str-not-bytes" target="_blank">Pickle</a>
 
-Ideas, Help and Templates: 
 
-<a href="https://github.com/sanjeevai/disaster-response-pipeline" target="_blank">GitHub from Sanjeev Yadav</a>
 
-<a href="https://github.com/gkhayes/disaster_response_app" target="_blank">GitHub from Genevieve Hayes</a>
 
-This project was completed as part of the Udacity Data Scientist Nanodegree. 
-Code templates and data were provided by Udacity. The data was originally sourced by Udacity from Figure Eight.
-
-<a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025" target="_blank">Udacity Data Scientist Nanodegree</a>
 
